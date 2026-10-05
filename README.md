@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/hero.svg" alt="Dhivya Vinobabu — Software Developer. Java, Backend, Full-Stack, AI/ML." width="100%">
+<img src="hero.svg" alt="Dhivya Vinobabu — Software Developer. Java, Backend, Full-Stack, AI/ML." width="100%">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-dhivya--vinobabu18-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhivya-vinobabu18/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-_dhivya--18vino_-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/_dhivya-18vino_/)
@@ -8,7 +8,7 @@
 
 </div>
 
-<img src="assets/status.svg" alt="Developer status: building. Focus on Java backend, learning system design, exploring AI/ML, solving DSA." width="100%">
+<img src="status.svg" alt="Developer status: building. Focus on Java backend, learning system design, exploring AI/ML, solving DSA." width="100%">
 
 ## `01 // ABOUT`
 
@@ -24,11 +24,11 @@ practice  : Data Structures & Algorithms (LeetCode, Java)
 
 ## `02 // TECH STACK`
 
-<img src="assets/developer-system.svg" alt="Tech stack: languages Java, Python, JavaScript, TypeScript; backend Java, Flask, REST APIs; frontend React, JavaScript, HTML/CSS; database MySQL, MongoDB; AI/ML PyTorch, OpenCV, YOLO; tools Git, GitHub, Docker." width="100%">
+<img src="developer-system.svg" alt="Tech stack: languages Java, Python, JavaScript, TypeScript; backend Java, Flask, REST APIs; frontend React, JavaScript, HTML/CSS; database MySQL, MongoDB; AI/ML PyTorch, OpenCV, YOLO; tools Git, GitHub, Docker." width="100%">
 
 ## `03 // ENGINEERING SIGNALS`
 
-<img src="assets/signals.svg" alt="Engineering signals: Java primary, Python working with, DSA practicing, AI/ML exploring, system design learning." width="100%">
+<img src="signals.svg" alt="Engineering signals: Java primary, Python working with, DSA practicing, AI/ML exploring, system design learning." width="100%">
 
 ## `04 // SELECTED BUILDS`
 
@@ -168,7 +168,7 @@ Full-Stack          ●●○
 
 ## `08 // HOW I BUILD`
 
-<img src="assets/workflow.svg" alt="Workflow: idea, design, code, test, debug, deploy, iterate." width="100%">
+<img src="workflow.svg" alt="Workflow: idea, design, code, test, debug, deploy, iterate." width="100%">
 
 ## `09 // ACTIVITY PULSE`
 
@@ -183,7 +183,7 @@ Full-Stack          ●●○
   <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhivyavinobabu&layout=compact&hide_border=true&bg_color=0B1020&title_color=22D3EE&text_color=E6EDF3">
 </p>
 
-<img src="assets/footer.svg" alt="Terminal: Let's build something useful. Connection established. Status: open to opportunities." width="100%">
+<img src="footer.svg" alt="Terminal: Let's build something useful. Connection established. Status: open to opportunities." width="100%">
 
 <p align="center">
   <a href="https://www.linkedin.com/in/dhivya-vinobabu18/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
